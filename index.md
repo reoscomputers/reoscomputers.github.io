@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# ReOS Computers - Rejuvenate Your Old Laptop
+# Make Your Old Laptop Great Again
 
 Do you have an old slow laptop? Don't throw it out, don't recycle it, don't refurbish it, ReOS it!
 
