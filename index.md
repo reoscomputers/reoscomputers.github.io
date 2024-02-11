@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Home
 ---
 Do you have an old slow laptop? Don't throw it out, don't recycle it, don't refurbish it, ReOS it!
 
