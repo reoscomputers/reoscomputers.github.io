@@ -1,13 +1,10 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
 title: Home
 ---
+
+# ReOS Computers - Rejuvenate Your Old Laptop
+
 Do you have an old slow laptop? Don't throw it out, don't recycle it, don't refurbish it, ReOS it!
 
 Did you know that you can rejuvenate slow old laptops simply by replacing the OS (operating system) with a free open source community-developed OS?
