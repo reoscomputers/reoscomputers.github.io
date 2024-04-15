@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Make Your Old Laptop Great Again
+# ReOS: Make Your Old Laptop Great Again
 
 ![Lots of old laptops](/assets/img/2024/didilaptops.jpeg)
 
